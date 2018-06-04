@@ -6,8 +6,7 @@ This is a private repository, with a rendered site made available through github
 
 ** Note that all files in the /docs subfolder on the master branch are public **
 
-The rendered site is here: 
- 
+The rendered site is here: [Intermediate Excel](https://intersectaustralia.github.io/Intermediate-excel/)
 
 # Prerequisites
 
